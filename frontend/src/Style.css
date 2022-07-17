@@ -1,0 +1,8 @@
+.btnAllEdit:hover{
+    background-color: orange;
+    border: none;
+}
+.btnAllDelete:hover{
+    background-color: red;
+    border: none;
+}
